@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/yash358",
   resume:
-    "https://drive.google.com/file/d/1cvjP8etuexydIkblX0MmplD006ROPPAL/view?usp=sharing",
+    "https://drive.google.com/file/d/1hPAk9UjMdf9HtjN8tIM3mwIvJEbJ1v-9/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/yash-mittal-91012221a/",
   twitter: "https://twitter.com/YashMittal7707",
   insta: "https://www.instagram.com/yashmittal128/?next=%2F",
